@@ -5,7 +5,7 @@ Go SDK for the QPay V2 API. Provides a simple, type-safe client for creating inv
 ## Installation
 
 ```bash
-go get github.com/usukhbayar-boop/qpay-go
+go get github.com/qpay-sdk/qpay-go
 ```
 
 ## Quick Start
@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 
-	qpay "github.com/usukhbayar-boop/qpay-go"
+	qpay "github.com/qpay-sdk/qpay-go"
 )
 
 func main() {
