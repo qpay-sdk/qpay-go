@@ -1,5 +1,8 @@
 # qpay-go
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/qpay-sdk/qpay-go.svg)](https://pkg.go.dev/github.com/qpay-sdk/qpay-go)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Go SDK for the QPay V2 API. Provides a simple, type-safe client for creating invoices, managing payments, and handling ebarimt (electronic tax receipts) through QPay's merchant API.
 
 ## Installation
