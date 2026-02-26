@@ -1,5 +1,6 @@
 # qpay-go
 
+[![CI](https://github.com/qpay-sdk/qpay-go/actions/workflows/ci.yml/badge.svg)](https://github.com/qpay-sdk/qpay-go/actions/workflows/ci.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/qpay-sdk/qpay-go.svg)](https://pkg.go.dev/github.com/qpay-sdk/qpay-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
